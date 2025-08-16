@@ -1,7 +1,7 @@
 <h1 align="center">🔨 Auto Breaker Mod</h1>
 
 <p align="center">
-⚠️ <strong>Önemli Uyarı:</strong> Bu mod otomatik blok kırma işlevi içerir. Minecraft kullanım şartlarını ihlal edebilir ve bazı sunucularda ban riski vardır. Kullanımı tamamen sizin sorumluluğunuzdadır.
+⚠️ <strong>Önemli Uyarı:</strong> Bu mod otomatik blok kırma işlevi içerir. Minecraft kullanım şartlarını ihlal edebilir ve bazı sunucularda ban riski olabilir. Kullanımı tamamen sizin sorumluluğunuzdadır.
 </p>
 
 ---
@@ -115,43 +115,17 @@ Varsayılan kırma alanı:
 
 ---
 
-### ⚠️ Güvenlik ve Uyarılar
+### 🛠️ SQL Server Kullanımı Olmayanlar
 
-**Yasal Uyarılar**  
-- Minecraft EULA’sını ihlal edebilir  
-- Çoğu sunucuda yasaktır  
-- Anti-cheat sistemleri tarafından tespit edilebilir  
-- Hesap banı riski vardır  
-
-**Güvenlik Önlemleri**  
-- Sadece güvendiğiniz kişilerle paylaşın  
-- Veritabanı şifrelerini güvenli tutun  
-- Genel sunucularda kullanmayın  
-
----
-
-### 🐛 Sorun Giderme
-
-**Veritabanı Bağlantı Sorunları**  
-- SQL Server çalışıyor mu kontrol edin  
-- Bağlantı bilgilerini kontrol edin  
-- Firewall ayarlarını kontrol edin  
-
-**Mod Çalışmıyor**  
-- Forge versiyonunu kontrol edin  
-- Log dosyalarını inceleyin  
-- F3 tuşu ile koordinatları kontrol edin  
-
----
-
-### 📝 Lisans
-Bu proje eğitim amaçlı geliştirilmiştir. **Ticari kullanım önerilmez.**
+- Veritabanı ile ilgili kodları silebilir veya kullanıcı doğrulamasını kaldırabilirsiniz.  
+- GPT, Qwen gibi yapay zekalardan kullanıcı doğrulamasını kaldırma konusunda destek alabilirsiniz.  
+- Kodu derleyin ve mod dosyasını oluşturun  
+- `.minecraft/mods` klasörüne yerleştirin
 
 ---
 
 ### 🤝 Katkıda Bulunma
-Bu mod eğitim amaçlıdır, katkıda bulunmak yerine yasal Minecraft modları geliştirmeyi öneririz.
+Katkıda bulunmak isteyenler, modun güvenlik ve oyun işlevlerini geliştirebilir.  
 
----
+<p align="center">💡 Sunucu kurallarını kontrol edin.</p>
 
-<p align="center">💡 Hile kategorisindedir. Sunucu kurallarını kontrol edin ve riski göze alın.</p>
